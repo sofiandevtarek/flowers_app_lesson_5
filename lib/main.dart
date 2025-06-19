@@ -4,8 +4,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-    DevicePreview(
-      builder: (c) => const Flowers()
+      const Flowers()
     ),
   );
 }
